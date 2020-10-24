@@ -1,6 +1,7 @@
-A two person playable game of Connect 4.
+## Connect 4
 
-This project was undertaken to solidify basic Javascript data structure manipulation. 
+A two person playable game of Connect 4 in browser.
 
-**Play:** 
-https://rhys-morris.github.io/connect-four/
+This project was undertaken to solidify basic Javascript data structure concepts and manipulation. 
+
+[**Play**](https://rhys-morris.github.io/connect-four/)
